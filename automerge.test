@@ -1,0 +1,7 @@
+private void mymethod(){
+    System.out.print("mymethod");
+}
+
+public void yourmethod(){
+    System.out.print("yourmethod");
+}
